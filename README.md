@@ -18,9 +18,18 @@
 - 🌱 I’m currently learning **JavaScript,  React.js**
 	
 
-- 💬 Ask me about **HTML5, CSS3, CORELDRAW, PHOTOSHOP**
+- 💬 Ask me about **HTML5, CSS3, CORELDRAW, PHOTOSHOP** <br>
+
+<div> 
+	<h2 align="left">About Labenu: </h2>
+	<p>Bootcamp com quinhentas horas de experiência prática em desenvolvimento Front End, guiadas por metodologias ágeis (Kanban/Scrum).
+Entre as habilidades aprendidas durante o curso estão HTML5, CSS3, JavaScript, React, Styled-Components, React Hooks, REST, Api Restful, HTTP, Git e Github.</p>
+
+</div>
+
+<br>
 	
-	<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
    
@@ -33,7 +42,7 @@
   <img align="center" alt="hrn-React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="hrn-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="hrn-CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
+  <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
   <img align="center" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   <img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
@@ -41,7 +50,7 @@
   
 </div>
   
-  ##
+
  
 <div> 
 	<h3 align="left">Connect with me:</h3>
