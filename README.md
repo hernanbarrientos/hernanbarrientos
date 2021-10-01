@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **JavaScript,  React.js**
 	
 
-- 💬 Ask me about **HTML5, CSS3, CORELDRAW, PHOTOSHOP** <br>
+- 💬 Ask me about **HTML5, CSS3, CORELDRAW, PHOTOSHOP** 
 
 <div> 
 	<h2 align="left">About Labenu: </h2>
