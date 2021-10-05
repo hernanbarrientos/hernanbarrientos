@@ -22,8 +22,7 @@
 
 <div> 
 	<h2 align="left">About Labenu: </h2>
-	<p>Bootcamp com quinhentas horas de experiência prática em desenvolvimento Front End, guiadas por metodologias ágeis (Kanban/Scrum).
-Entre as habilidades aprendidas durante o curso estão HTML5, CSS3, JavaScript, React, Styled-Components, React Hooks, REST, Api Restful, HTTP, Git e Github.</p>
+	<p>Bootcamp with five hundred hours of hands-on experience in Front End development, guided by agile methodologies (Kanban/Scrum). Skills learned during the course include HTML5, CSS3, JavaScript, React, Styled-Components, React Hooks, REST, Restful Api, HTTP, Git and Github.</p>
 
 </div>
 
